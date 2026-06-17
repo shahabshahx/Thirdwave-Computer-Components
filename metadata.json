@@ -1,0 +1,6 @@
+{
+  "name": "Thirdwave",
+  "description": "A dynamic computer components buy & sell e-commerce platform using PHP and MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
