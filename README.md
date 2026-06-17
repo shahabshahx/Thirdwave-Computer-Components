@@ -111,6 +111,6 @@ To deploy Thirdwave to a free hosting service like AwardSpace:
 ----
 
 ## Default Admin Login Credentials (Academic Testing)
-- **Gate URL**: [http://localhost/thirdwave/login.php](http://localhost/thirdwave/login.php)
+- **Gate URL**: http://thirdwave.onlinewebshop.net/index.php
 - **Administrative Username**: `admin`
 - **Administrative Password**: `admin123`
